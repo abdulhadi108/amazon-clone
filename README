@@ -1,0 +1,7 @@
+Amazon Clone – E-Commerce Web Application							view on github
+Technologies: HTML5, CSS3, JavaScript and firebase for the database
+•	Developed a responsive, front-end replica of Amazon’s e-commerce platform with product listings, category sections, and a dynamic navigation bar.
+•	Implemented interactive features such as product hover effects, search bar simulation, and shopping cart functionality.
+•	Designed pixel-perfect layouts inspired by Amazon’s UI, ensuring mobile and desktop compatibility.
+•	Structured code for scalability, enabling easy integration of backend APIs for real product data and user authentication in the future.
+•	Enhanced performance and user experience through optimized asset loading and clean, modular code structure.
